@@ -1,0 +1,2 @@
+I think that the description of Jonathan's daily email process was an eye opener. Such a simple idea. Gmail drafts for notes taking and actually writing an email. Because this is an email app, right? So simple. And the auto integration with websites, Zappier and all those endpoints. I see it clearly now. I know I overthink things. I call it "the architect mark", always consider pros and cons of different solutions. I hope the daily email will fix this for me.
+Paweł 
