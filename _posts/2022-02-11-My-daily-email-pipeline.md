@@ -4,8 +4,7 @@ website. Next steps will be to create an RSS feed and a real email
 newsletter.
 
 
-This is [the architecture]( view:
-https://drive.google.com/file/d/1PHlJo7Shpyz3rxluB0aB5__dCQezU1ql/view?usp=sharing
+This is [the architecture](https://drive.google.com/file/d/1PHlJo7Shpyz3rxluB0aB5__dCQezU1ql/view?usp=sharing
 )
 
 
