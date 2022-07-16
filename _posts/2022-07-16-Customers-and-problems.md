@@ -14,6 +14,6 @@ customers.
 Let's try it. Can I ask you **what would you like to read about in my
 daily emails**? I would be delighted to help you solve your problem.
 
-Here is the link to the form: https://tally.so/r/nWOppe
+Here is the link to the form: [https://tally.so/r/nWOppe](https://tally.so/r/nWOppe)
 
 Paweł
